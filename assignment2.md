@@ -12,7 +12,7 @@ While the articles on the site are well formatted, the main page seems to scroll
 ## Instructables (http://www.instructables.com/)
 ### Built Using HTML, CSS, Javascript
 
-![image of robot parts](https://cdn.instructables.com/FPY/JUMW/INROSCJ9/FPYJUMWINROSCJ9.RECTANGLE1.jpg) ![image of book](https://cdn.instructables.com/FUC/9Z9L/J2UPDNNM/FUC9Z9LJ2UPDNNM.RECTANGLE1.jpg)![image of joints](https://cdn.instructables.com/FY6/X7O3/J7AQQ3HV/FY6X7O3J7AQQ3HV.RECTANGLE1.jpg)
+![image of robot parts](https://cdn.instructables.com/FPY/JUMW/INROSCJ9/FPYJUMWINROSCJ9.RECTANGLE1.jpg) ![image of book](https://cdn.instructables.com/FUC/9Z9L/J2UPDNNM/FUC9Z9LJ2UPDNNM.RECTANGLE1.jpg)
 
 Instructables is a website to share what you make through words, photos and video files. From a UX perspective, the site is simple, clean and easy to follow. The search box at the top of the page allows the user to quickly find a specific project or scroll through a list of ideas below. Following the steps to create something is equally as satisfying. Projects include simple instructions, photos and videos to guide the user through even the most complex creations. While the site is built in HTML, CSS and Javascript, the source code reveals a bootstrap template and a Jquery library. I wouldn't have guessed that this site was built with bootstrap. Unlike Squarespace and other template-based websites, bootstrap does require some coding skills, but also allows for more customization.
 
