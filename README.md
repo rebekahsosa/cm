@@ -1,4 +1,4 @@
-# Assignment 2: Website Analysis + Github Repo¶
+# Assignment 2: Website Analysis + Github Repo
 
 Part A:
 
